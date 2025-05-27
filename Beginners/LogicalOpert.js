@@ -12,14 +12,14 @@ if(ages>=18 && emId){
 
 
 //Logical OR Operator 
-// function check(email,username){
-//    if(email || username){
-//     return true;
-//    }
-//    return false;
+function check(email,username){
+   if(email || username){
+    return true;
+   }
+   return false;
 
-// }
-// check();
+}
+check();
 
 
 //Logical OR Operator 
